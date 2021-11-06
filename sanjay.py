@@ -1,3 +1,3 @@
-print("hello sanjay 123")
+print("hello sanjay ")
 
 print("This is farooq")
